@@ -11,4 +11,4 @@ You need to have the libnotify-bin package installed
 
 sudo apt-get install libnotify-bin
 
-<img src="/bandicm/Swap-Using-Notification/blob/main/Screenshot_20220421_092646.png" alt="Screenshot" title="Screenshot">
+<img src="/Swap-Using-Notification/blob/main/Screenshot_20220421_092646.png" alt="Screenshot" title="Screenshot">

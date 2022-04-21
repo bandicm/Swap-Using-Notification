@@ -21,4 +21,4 @@ sudo apt-get install libnotify-bin
 
 ## Screenshot
 
-[<img alt="alt_text"  src="Screenshot_20220421_092646.png" />]
+<img alt="alt_text"  src="Screenshot_20220421_092646.png" />
